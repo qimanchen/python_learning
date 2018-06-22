@@ -1,2 +1,2 @@
 # python_learning
-python study by Liao XueFeng python
+some learning notes about python
