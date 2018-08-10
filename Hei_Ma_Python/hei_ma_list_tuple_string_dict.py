@@ -199,8 +199,70 @@ def dict_learning():
     # string.count() 统计出现的字数
     # string.index("name") 判断自字符串出现的位置 --> 以第一个字母为位置
     # 使用index() 子字符串不存在，程序会报错
-    #
+
+
+def sting_learning():
+    # 判断空白字符
+    space_str = "   \t\n\t"
+    print(space_str.isspace())
+    # 判断数字
+    # isdecimal -- 普通数字
+    # isdigit --- unicode
+    # isnumeric -- 中文数字
+    num_str = "1223"
+    # (2) > unicode 字符串
+    num_str = "\u00b2"
+    # 中文数字
+
+    # 查找 替换
+    hello_str = "hello world"
+    # 判断是否以指定字符串开始
+    print(hello_str.startswith("hello"))
+    # 判断是否以指定的字符串结束
+    print(hello_str.endswith("world"))
+    # 查找指定字符串
+    # find 返回指定字符串的索引值的位置
+    # find 查找不存在的字符不存在时，会返回-1
+    print(hello_str.find("llo"))
+    # 替换字符串
+    # replace 方法会返回一个新的字符串
+    # 但是不会修改原有的字符串
+    print(hello_str.replace("world", "python"))
+
+    # 文本对齐:
+    # 按顺序并居中对齐输出
+    poem = ["登鹤雀楼",
+           "王之涣",
+           "白日依山尽",
+           "黄河入海流",
+           "欲穷千里目",
+           "更上一层楼"]
+    # center -- 居中处理，默认使用英文的空格
+    for poem_str in poem:
+        print(poem_str.center(10, " "))
+    # ljust(10," ") -- 相左对齐
+    # rjust(10,"") -- 向右对齐
+
+    # 去除空白字符
+    # string.strip() -- 去除空白字符
+    # string.lstrip() -- 开始
+    # sring.rstrip() -- 末尾
+
+    # 拆分和连接
+    # split -- 默认空白字符作为分隔符
+    # join -- 序列合并
+    poem1 = "登鹤雀楼\t 王之涣 \t 白日依山尽 \t \n黄河入海流 \t\t 欲穷千里目 \t \n更上一层楼"
+    print(poem1)
+    # 拆分字符串
+    poem_list = poem1.split()
+    print(poem_list)
+
+    # 2.合并字符串
+    # join(iterator)
+    result = "++".join(poem_list)
+    # 前面是拼接的分割符
+    print(result)
 
 
 if __name__ == "__main__":
-    dict_learning()
+    sting_learning()
