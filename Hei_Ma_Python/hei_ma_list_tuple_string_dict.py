@@ -126,7 +126,81 @@ def tuple_learning():
     2.格式字符串
     3.让列表不可被修改
     """
+    print("%s 年龄是 %d 身高是 %.2f" % info_tuple)
+    # 可以使用元组来拼接字符串
+    info_str = "%s 年龄是 %d 身高是 %.2f" % info_tuple
+    print(info_str)
+    # 格式化字符串后面显示的是元组
+
+    """
+    元组和列表之间的转换
+    list() # 使得元组可被修改
+    tuple() # 保护列表不被改变
+    """
+
+
+def dict_learning():
+    """
+    字典 -- 无序的集合
+    :return:
+    """
+    xiaoming = {"name": "小明", "age": 18, "gender": True, "height": 1.75}
+    # key: value --- key必须是唯一的
+    print(xiaoming)
+    # 字典 -- 用来描述物体的相关信息
+    # 1.取值 dict[key] -> value
+    # 在取值是，key不存在，则程序会报错
+    print(xiaoming['name'])
+
+    # 2. 增加/修改
+    # key不存在 --> 新增，存在 --> 修改
+    xiaoming['age'] = 17
+
+    # 3. 删除
+    # 删除不存在的key会出错
+    xiaoming.pop('gender')
+    print(xiaoming)
+
+    # 常用操作:
+    # 1.统计键值对数量
+    print(len(xiaoming))
+    # 2.合并字典
+    temp_dict = {"sf": 12, 'age': 20}
+    # 如果被合并时，有相同的会被覆盖
+    xiaoming.update(temp_dict)
+    # 3.清空字典
+    xiaoming.clear()
+
+    # 循环遍历
+    xiaoming = {"name": "小明", "qq": "12234", "phone": "345"}
+
+    # 迭代遍历
+    # 变量k是每次获取的key值
+    for k in xiaoming:
+        print("%s - %s" % (k, xiaoming[k]))
+
+    # 字典 描述一个物体的信息
+    # 多个物体放到一个列表中
+    card_list = [{"name": "张三",
+                  "qq": "12345",
+                  "phone": "110"},
+                 {"name": "李四",
+                  "qq": "54321",
+                  "phone": "10086"},
+                 {}]
+    for card_info in card_list:
+        print(card_info)
+    # 定义字符串 -- 使用”
+    # 字符串可以使用索引值索引
+    # 可以使用for迭代循环遍历字符串
+
+    # 常用的操作
+    # len() 字符串的长度
+    # string.count() 统计出现的字数
+    # string.index("name") 判断自字符串出现的位置 --> 以第一个字母为位置
+    # 使用index() 子字符串不存在，程序会报错
+    #
 
 
 if __name__ == "__main__":
-    tuple_learning()
+    dict_learning()
