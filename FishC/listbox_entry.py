@@ -20,9 +20,11 @@ def first_test_listbox():
     # the_lb.insert(0, "你是猪吗？")
     # the_lb.insert(END, "fishx is foolish")
     # 可以通过列表实现
-    for item in["鸡蛋", "鸭蛋", "鹅蛋", "李狗蛋"]:
-        # END 表示在选项按钮列的最后面添加一个新的按钮
-        the_lb.insert(END, item)
+    list_dir = ["鸡蛋", "鸭蛋", "鹅蛋", "李狗蛋"]
+    # for item in["鸡蛋", "鸭蛋", "鹅蛋", "李狗蛋"]:
+    #     # END 表示在选项按钮列的最后面添加一个新的按钮
+    #     the_lb.insert(END, item)
+    [the_lb.insert(END, item) for item in list_dir]
 
     # 删除参数（带有两个参数） -- 初始位置 -- 结束位置
     # 设置单个参数直接对应索引值位置的，变量删除
@@ -44,9 +46,10 @@ def test_listbox_more_selections():
     the_lb.pack()
 
     # 可以通过列表实现
-    for item in range(11):
-        # END 表示在选项按钮列的最后面添加一个新的按钮
-        the_lb.insert(END, item)
+    # for item in range(11):
+    #     # END 表示在选项按钮列的最后面添加一个新的按钮
+    #     the_lb.insert(END, item)
+    [the_lb.insert(END, item) for item in range(11)]
 
     mainloop()
 
@@ -64,9 +67,10 @@ def test_listbox_more_selections_roll():
     the_lb = Listbox(root, yscrollcommand=sb.set)
 
     # 可以通过列表实现
-    for item in range(110):
-        # END 表示在选项按钮列的最后面添加一个新的按钮
-        the_lb.insert(END, item)
+    # for item in range(110):
+    #     # END 表示在选项按钮列的最后面添加一个新的按钮
+    #     the_lb.insert(END, item)
+    [the_lb.insert(END, item) for item in range(110)]
 
     the_lb.pack(side=LEFT, fill=BOTH)
 
@@ -87,7 +91,7 @@ def scroller():
     s1 = Scale(root, from_=0, to=42, tickinterval=5, resolution=5, length=200)
     s1.pack()
 
-    s2 = Scale(root, from_=0, to=200, resolution=10, orient=HORIZONTAL,length=600)
+    s2 = Scale(root, from_=0, to=200, resolution=10, orient=HORIZONTAL, length=600)
     s2.pack()
 
     def show():
@@ -97,6 +101,7 @@ def scroller():
     Button(root, text="获取位置", command=show).pack()
 
     mainloop()
+
 
 if __name__ == '__main__':
     scroller()

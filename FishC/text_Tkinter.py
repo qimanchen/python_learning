@@ -110,10 +110,12 @@ def test_text_tag_repeat():
     text = Text(root, width=30, height=10)
     text.pack()
 
-    text.insert(INSERT, "I love FishC.com!")
+    text.insert(INSERT, "I love FishC.com!\n")
+    text.insert(INSERT, "I love python!")
 
     # 设置标签位置
-    text.tag_add("tag1", "1.7", "1.12", "1.14")
+    # tag_add -->每两个字符串组位置
+    text.tag_add("tag1", "1.7", "1.12", "2.0", "2.2", "2.7")
     # 设置标签显示形式
     # background -- 背景色
     # foreground -- 前景色
@@ -262,4 +264,4 @@ def test_text_reset():
 
 # 测试模块的实现
 if __name__ == '__main__':
-    test_text_reset()
+    test_text_tag_repeat()
