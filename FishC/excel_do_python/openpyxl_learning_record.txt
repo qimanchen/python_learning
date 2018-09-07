@@ -22,6 +22,8 @@
 	或者 ws = get_sheet_by_name('worksheet name')
 	
 	# 在当前工作簿中生成一个新的worksheet
+	# 当不加index参数时，默认增加工作表到末尾
+	# title名默认按照 Sheet1,2,3... 的顺序实现
 	nws = wb.create_sheet(index=插入位置， title=worksheet name)
 	
 	# 删除 指定工作簿

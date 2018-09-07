@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# add for test .gitignore
 
 import pygame
 from Hei_Ma_Python.hei_ma_pygame.plane_sprites import *

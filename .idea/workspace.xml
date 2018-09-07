@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24159c47-b902-4cfb-aed5-64bd3466b25e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/FishC/excel_do_python/openpyxl_learning_record.txt" afterPath="$PROJECT_DIR$/FishC/excel_do_python/openpyxl_learning_record.txt" />
       <change beforePath="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py" afterPath="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,36 +14,82 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_learning$listbox_entry.coverage" NAME="listbox_entry Coverage Results" MODIFIED="1535124854667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC" />
-    <SUITE FILE_PATH="coverage/python_learning$input_Tkinter.coverage" NAME="input_Tkinter Coverage Results" MODIFIED="1535121959824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC" />
-    <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1535211429977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/plane_war" />
+    <SUITE FILE_PATH="coverage/python_learning$cut_picture_pygame.coverage" NAME="cut_picture_pygame Coverage Results" MODIFIED="1536046141133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/pygame_fishc" />
+    <SUITE FILE_PATH="coverage/python_learning$2048.coverage" NAME="2048 Coverage Results" MODIFIED="1535727640969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_game_creat" />
+    <SUITE FILE_PATH="coverage/python_learning$new.coverage" NAME="new Coverage Results" MODIFIED="1535467059033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame" />
+    <SUITE FILE_PATH="coverage/python_learning$hero_shoot_bollet.coverage" NAME="hero_shoot_bollet Coverage Results" MODIFIED="1536238719346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_depth/plane war" />
+    <SUITE FILE_PATH="coverage/python_learning$pygame_background_set.coverage" NAME="pygame_background_set Coverage Results" MODIFIED="1535985972525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/pygame_fishc" />
+    <SUITE FILE_PATH="coverage/python_learning$excel_1.coverage" NAME="excel_1 Coverage Results" MODIFIED="1536052038188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/excel_do_python" />
+    <SUITE FILE_PATH="coverage/python_learning$excel_4.coverage" NAME="excel_4 Coverage Results" MODIFIED="1536136742509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/excel_do_python" />
+    <SUITE FILE_PATH="coverage/python_learning$show_and_move_play_plane.coverage" NAME="show_and_move_play_plane Coverage Results" MODIFIED="1536224040792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_depth/plane war" />
+    <SUITE FILE_PATH="coverage/python_learning$first_test_pygame.coverage" NAME="first_test_pygame Coverage Results" MODIFIED="1535892394134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/pygame_fishc" />
+    <SUITE FILE_PATH="coverage/python_learning$excel_2.coverage" NAME="excel_2 Coverage Results" MODIFIED="1536053058388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/excel_do_python" />
+    <SUITE FILE_PATH="coverage/python_learning$excel_5.coverage" NAME="excel_5 Coverage Results" MODIFIED="1536139392907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/excel_do_python" />
+    <SUITE FILE_PATH="coverage/python_learning$listbox_entry.coverage" NAME="listbox_entry Coverage Results" MODIFIED="1535728781225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC" />
     <SUITE FILE_PATH="coverage/python_learning$buy_apple.coverage" NAME="buy_apple Coverage Results" MODIFIED="1533741292053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hei_ma_learning/first_step" />
-    <SUITE FILE_PATH="coverage/python_learning$test_fishc.coverage" NAME="test_fishc Coverage Results" MODIFIED="1534482358274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hei_ma_learning/first_step" />
-    <SUITE FILE_PATH="coverage/python_learning$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1535447475429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame" />
+    <SUITE FILE_PATH="coverage/python_learning$game_main.coverage" NAME="game_main Coverage Results" MODIFIED="1536308059455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_game_creat/BB_Resources" />
+    <SUITE FILE_PATH="coverage/python_learning$round_aroud_move.coverage" NAME="round_aroud_move Coverage Results" MODIFIED="1535986061899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/pygame_fishc" />
+    <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1535211429977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/plane_war" />
+    <SUITE FILE_PATH="coverage/python_learning$pygame_chop.coverage" NAME="pygame_chop Coverage Results" MODIFIED="1535987713270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/pygame_fishc" />
+    <SUITE FILE_PATH="coverage/python_learning$turtle_event_show_to_screen.coverage" NAME="turtle_event_show_to_screen Coverage Results" MODIFIED="1536046002158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/pygame_fishc" />
+    <SUITE FILE_PATH="coverage/python_learning$plan_war_creat_window.coverage" NAME="plan_war_creat_window Coverage Results" MODIFIED="1536222487603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_depth/plane war" />
+    <SUITE FILE_PATH="coverage/python_learning$turtle_event_save.coverage" NAME="turtle_event_save Coverage Results" MODIFIED="1535870058762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/pygame_fishc" />
+    <SUITE FILE_PATH="coverage/python_learning$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1535470084244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame" />
     <SUITE FILE_PATH="coverage/python_learning$plane_fight_v1_0.coverage" NAME="plane_fight_v1_0 Coverage Results" MODIFIED="1534483018431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame" />
-    <SUITE FILE_PATH="coverage/python_learning$text_Tkinter.coverage" NAME="text_Tkinter Coverage Results" MODIFIED="1535351343751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC" />
+    <SUITE FILE_PATH="coverage/python_learning$input_Tkinter.coverage" NAME="input_Tkinter Coverage Results" MODIFIED="1535121959824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC" />
+    <SUITE FILE_PATH="coverage/python_learning$turtle_move_by_keyboard.coverage" NAME="turtle_move_by_keyboard Coverage Results" MODIFIED="1535892435190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/pygame_fishc/man_improve_fishc" />
+    <SUITE FILE_PATH="coverage/python_learning$test_fishc.coverage" NAME="test_fishc Coverage Results" MODIFIED="1534482358274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hei_ma_learning/first_step" />
+    <SUITE FILE_PATH="coverage/python_learning$move_hero_class_achive.coverage" NAME="move_hero_class_achive Coverage Results" MODIFIED="1536235979287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_depth/plane war" />
+    <SUITE FILE_PATH="coverage/python_learning$excel_3.coverage" NAME="excel_3 Coverage Results" MODIFIED="1536133366405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC/excel_do_python" />
+    <SUITE FILE_PATH="coverage/python_learning$text_Tkinter.coverage" NAME="text_Tkinter Coverage Results" MODIFIED="1535730121122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FishC" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="plane_main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py">
+      <file leaf-file-name="hero_shoot_bollet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_depth/plane war/hero_shoot_bollet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="2187">
+              <caret line="111" column="27" lean-forward="false" selection-start-line="111" selection-start-column="27" selection-end-line="111" selection-end-column="27" />
+              <folding>
+                <element signature="e#49#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/game_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="85" column="45" lean-forward="true" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+              <folding>
+                <element signature="e#69#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2682">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plane_sprites.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_sprites.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2835">
-              <caret line="106" column="20" lean-forward="false" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-              <folding>
-                <element signature="e#3868#4143#0" expanded="false" />
-              </folding>
-            </state>
+      <file leaf-file-name="dude.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/resources/images/dude.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dude2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/resources/images/dude2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -65,11 +113,32 @@
         <option value="$PROJECT_DIR$/hei_ma_learning/first_step/julie.txt" />
         <option value="$PROJECT_DIR$/hei_ma_learning/first_step/test_fishc.py" />
         <option value="$PROJECT_DIR$/FishC/input_Tkinter.py" />
-        <option value="$PROJECT_DIR$/FishC/listbox_entry.py" />
         <option value="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_sprites.py" />
         <option value="$PROJECT_DIR$/FishC/plane_war/main.py" />
-        <option value="$PROJECT_DIR$/FishC/text_Tkinter.py" />
         <option value="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py" />
+        <option value="$PROJECT_DIR$/python_game_creat/2048.py" />
+        <option value="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/new.py" />
+        <option value="$PROJECT_DIR$/FishC/listbox_entry.py" />
+        <option value="$PROJECT_DIR$/FishC/text_Tkinter.py" />
+        <option value="$PROJECT_DIR$/FishC/pygame_fishc/turtle_event_save.py" />
+        <option value="$PROJECT_DIR$/FishC/pygame_fishc/first_test_pygame.py" />
+        <option value="$PROJECT_DIR$/FishC/pygame_fishc/man_improve_fishc/turtle_move_by_keyboard.py" />
+        <option value="$PROJECT_DIR$/FishC/pygame_fishc/round_aroud_move.py" />
+        <option value="$PROJECT_DIR$/FishC/pygame_fishc/pygame_background_set.py" />
+        <option value="$PROJECT_DIR$/FishC/pygame_fishc/pygame_chop.py" />
+        <option value="$PROJECT_DIR$/FishC/pygame_fishc/cut_picture_pygame.py" />
+        <option value="$PROJECT_DIR$/FishC/pygame_fishc/turtle_event_show_to_screen.py" />
+        <option value="$PROJECT_DIR$/FishC/excel_do_python/excel_1.py" />
+        <option value="$PROJECT_DIR$/FishC/excel_do_python/excel_2.py" />
+        <option value="$PROJECT_DIR$/FishC/excel_do_python/excel_3.py" />
+        <option value="$PROJECT_DIR$/FishC/excel_do_python/excel_4.py" />
+        <option value="$PROJECT_DIR$/FishC/excel_do_python/excel_5.py" />
+        <option value="$PROJECT_DIR$/python_depth/plane war/plan_war_creat_window.py" />
+        <option value="$PROJECT_DIR$/python_depth/plane war/feiji/show_and_move_play_plane.py" />
+        <option value="$PROJECT_DIR$/python_depth/plane war/show_and_move_play_plane.py" />
+        <option value="$PROJECT_DIR$/python_depth/plane war/move_hero_class_achive.py" />
+        <option value="$PROJECT_DIR$/python_depth/plane war/hero_shoot_bollet.py" />
+        <option value="$PROJECT_DIR$/python_game_creat/BB_Resources/game_main.py" />
       </list>
     </option>
   </component>
@@ -103,8 +172,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,18 +184,7 @@
             <path>
               <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="FishC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Hei_Ma_Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Hei_Ma_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="hei_ma_pygame" type="462c0819:PsiDirectoryNode" />
+              <item name="python_depth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,7 +199,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\gitHub_project\python_learning\python_depth\plane war" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\gitHub_project\python_learning\python_depth\plane war" />
+      <recent name="H:\gitHub_project\python_learning\FishC\pygame_fishc" />
+      <recent name="H:\gitHub_project\python_learning\FishC\pygame_fishc\man_improve_fishc" />
       <recent name="H:\gitHub_project\python_learning\FishC\plane_war" />
     </key>
   </component>
@@ -157,116 +221,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.plane_main">
-    <configuration name="input_Tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.game_main">
+    <configuration name="game_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FishC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_game_creat/BB_Resources" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FishC/input_Tkinter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_game_creat/BB_Resources/game_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="listbox_entry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hero_shoot_bollet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FishC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_depth/plane war" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FishC/listbox_entry.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_depth/plane war/hero_shoot_bollet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="move_hero_class_achive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FishC/plane_war" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_depth/plane war" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FishC/plane_war/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_depth/plane war/move_hero_class_achive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="plan_war_creat_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_depth/plane war" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_depth/plane war/plan_war_creat_window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="text_Tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="show_and_move_play_plane" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FishC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_depth/plane war" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python_learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FishC/text_Tkinter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_depth/plane war/show_and_move_play_plane.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.plane_main" />
-      <item index="1" class="java.lang.String" itemvalue="Python.input_Tkinter" />
-      <item index="2" class="java.lang.String" itemvalue="Python.listbox_entry" />
-      <item index="3" class="java.lang.String" itemvalue="Python.text_Tkinter" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main" />
+      <item index="0" class="java.lang.String" itemvalue="Python.plan_war_creat_window" />
+      <item index="1" class="java.lang.String" itemvalue="Python.show_and_move_play_plane" />
+      <item index="2" class="java.lang.String" itemvalue="Python.game_main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.move_hero_class_achive" />
+      <item index="4" class="java.lang.String" itemvalue="Python.hero_shoot_bollet" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.plane_main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.text_Tkinter" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main" />
-        <item index="3" class="java.lang.String" itemvalue="Python.listbox_entry" />
-        <item index="4" class="java.lang.String" itemvalue="Python.input_Tkinter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.game_main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.hero_shoot_bollet" />
+        <item index="2" class="java.lang.String" itemvalue="Python.move_hero_class_achive" />
+        <item index="3" class="java.lang.String" itemvalue="Python.show_and_move_play_plane" />
+        <item index="4" class="java.lang.String" itemvalue="Python.plan_war_creat_window" />
       </list>
     </recent_temporary>
   </component>
@@ -299,19 +363,19 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5192308" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.49786323" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.39155984" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.49679488" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.48076922" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20405982" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.4818376" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.60844016" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22970085" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.49358973" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -330,280 +394,157 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FishC/text_Tkinter.py">
+    <entry file="file://$PROJECT_DIR$/FishC/input_Tkinter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6291">
-          <caret line="235" column="7" lean-forward="true" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2511">
-          <caret line="94" column="35" lean-forward="false" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FishC/plane_war/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="42" column="63" lean-forward="true" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_sprites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2889">
-          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding>
-            <element signature="e#3868#4143#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="-1844">
+          <caret line="84" column="36" lean-forward="true" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FishC/listbox_entry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/PYthon3.6.4_setUP/Lib/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57699">
-          <caret line="2137" column="4" lean-forward="false" selection-start-line="2137" selection-start-column="4" selection-end-line="2137" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/pygame_learning/pygame_d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_sprites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3051">
-          <caret line="114" column="23" lean-forward="true" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="23" />
-          <folding>
-            <element signature="e#3868#4143#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/bullet1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="60" column="24" lean-forward="false" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_fight_v1_0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_sprites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2349">
-          <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
-          <folding>
-            <element signature="e#3868#4143#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_sprites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3868#4143#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_fight_v1_0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="451">
+          <caret line="106" column="14" lean-forward="false" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/test_fishc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/julie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/test_fishc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/julie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/test_fishc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/julie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/buy_apple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/buy_apple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/buy_apple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/PYCHarm_PROGRAM/venv/Lib/site-packages/easygui/boxes/derived_boxes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3126">
-          <caret line="202" column="4" lean-forward="false" selection-start-line="202" selection-start-column="4" selection-end-line="202" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/judge_age.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/buy_apple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/julie.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hei_ma_learning/first_step/test_fishc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="324">
           <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/bullet2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/bullet_supply.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/bomb_supply.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_fight_v1_1.py">
+    <entry file="file://G:/PYthon3.6.4_setUP/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="89964">
+          <caret line="3335" column="8" lean-forward="false" selection-start-line="3335" selection-start-column="8" selection-end-line="3335" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_fight_v1_0.py">
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/event_save.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        <state relative-caret-position="450">
+          <caret line="163" column="14" lean-forward="false" selection-start-line="163" selection-start-column="14" selection-end-line="163" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/me2.png">
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/turtle_event_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/fish_file/81/background.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/me1.png">
+    <entry file="file://$PROJECT_DIR$/FishC/text_Tkinter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="116" column="26" lean-forward="false" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/man_improve_fishc/turtle_move_by_keyboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_game_creat/2048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3528">
+          <caret line="235" column="31" lean-forward="false" selection-start-line="235" selection-start-column="31" selection-end-line="235" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/fish_file/78/turtle.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/enemy3_down1.png">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="1667" column="0" lean-forward="false" selection-start-line="1667" selection-start-column="0" selection-end-line="1667" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/fish_file/80/turtle.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1077248295/pygame/mouse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/pygame_background_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3545">
+          <caret line="81" column="43" lean-forward="true" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/pygame_chop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1077248295/pygame/surface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/cut_picture_pygame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="100" column="39" lean-forward="true" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/turtle_event_show_to_screen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/round_aroud_move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/pygame_fishc/first_test_pygame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="56" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/pygame_learning/pygame_d.py">
@@ -613,83 +554,186 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/bullet1.png">
+    <entry file="file://G:/PYCHarm_PROGRAM/venv/Lib/site-packages/openpyxl/workbook/workbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="400" column="8" lean-forward="false" selection-start-line="400" selection-start-column="8" selection-end-line="400" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/PYCHarm_PROGRAM/venv/Lib/site-packages/openpyxl/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/PYCHarm_PROGRAM/venv/Lib/site-packages/openpyxl/styles/fills.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="170" column="6" lean-forward="false" selection-start-line="170" selection-start-column="6" selection-end-line="170" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/PYCHarm_PROGRAM/venv/Lib/site-packages/openpyxl/styles/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/resources/images/._bullet.png" />
+    <entry file="file://$PROJECT_DIR$/FishC/excel_do_python/excel_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/excel_do_python/excel_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="68" column="27" lean-forward="false" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/excel_do_python/excel_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/excel_do_python/excel_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-953">
+          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FishC/excel_do_python/excel_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_depth/plane war/plan_war_creat_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_depth/plane war/show_and_move_play_plane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_depth/plane war/move_hero_class_achive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_depth/plane war/feiji/hero1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://G:/PYthon3.6.4_setUP/Lib/tkinter/__init__.py">
+    <entry file="file://$PROJECT_DIR$/python_depth/plane war/feiji/hero2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_depth/plane war/feiji/hero.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1077248295/pygame/display.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57618">
-          <caret line="2137" column="4" lean-forward="false" selection-start-line="2137" selection-start-column="4" selection-end-line="2137" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="142" column="4" lean-forward="false" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FishC/input_Tkinter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="163" column="0" lean-forward="true" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FishC/listbox_entry.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="98" column="14" lean-forward="false" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/enemy1_down4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/enemy1_down3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/enemy1_down2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/images/enemy1_down1.png">
+    <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/resources/images/grass.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_sprites.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2835">
+        <state relative-caret-position="343">
           <caret line="106" column="20" lean-forward="false" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
-          <folding>
-            <element signature="e#3868#4143#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FishC/plane_war/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="42" column="63" lean-forward="false" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FishC/text_Tkinter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="235" column="7" lean-forward="false" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/python_depth/plane war/feiji/background.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hei_Ma_Python/hei_ma_pygame/plane_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="127">
+          <caret line="71" column="30" lean-forward="false" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1077248295/pygame/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/resources/images/gameover.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_depth/plane war/hero_shoot_bollet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="111" column="27" lean-forward="false" selection-start-line="111" selection-start-column="27" selection-end-line="111" selection-end-column="27" />
+          <folding>
+            <element signature="e#49#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/resources/images/dude2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/resources/images/dude.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_game_creat/BB_Resources/game_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="85" column="45" lean-forward="true" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
+          <folding>
+            <element signature="e#69#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2682">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
