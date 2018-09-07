@@ -110,7 +110,7 @@ venv.bak/
 dmypy.json
 
 # txt
-.txt
+*.txt
 
 # excel
-.xlsx
+*.xlsx
