@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>人物动画-背景图实现</title>
+	<style>
+		.box{
+			width:120px;
+			height:182px;
+			border:1px solid #000;
+			margin:50px auto 0;
+			background:url(images/walking.png) 0px 0px no-repeat;
+			animation:walking 1s steps(8) 0s infinite;
+		}
+
+		@keyframes walking{
+			from{
+				background-position:0px 0px;
+			}
+
+			to{
+				background-position:-960px 0px;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class="box"></div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>html标题、段落</title>
+</head>
+<body>
+	<h1>一级标题</h1>
+
+	<h2>二级标题</h2>
+	<h3>三级标题</h3>
+	<h4>四级标题</h4>
+	<h5>五级标题</h5>
+	<h6>六级标题</h6>
+
+	<p>&nbsp;&nbsp;import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)<br />
+	(B)手动安装 <br />
+	Package Control的官方下载地址为：https://packagecontrol.io/Package%20Control.sublime-package。如果下载不了的话，可以从这里进行下载：Package Control。将下载下来的压缩文件，进行解压。会找到这样一个文件：Package Control.sublime-package，我们将这个文件放到Sublime Text 3的Installed Packages目录下。一般Installed Packages目录为：C:\Users\用户名\AppData\Roaming\Sublime Text 3\Installed Packages。如果没有找到的话从这里找：Preferences-->Browse Packages。点进入，向上翻一级就能找到Installed Packages。接着我们把Sublime Text 3重启一下。&nbsp;会发现多了这样一个东西。<br />
+	---------------------<br />
+	&lt;br /&gt;
+	</p>
+
+</body>
+</html>

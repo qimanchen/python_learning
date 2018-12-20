@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>transition动画复习</title>
+	<style>
+		.box{
+			width:100px;
+			height:100px;
+			background-color:cyan;
+			transition: height 500ms ease 500ms, width 500ms ease 1s, border-radius 500ms ease 1.5s;
+			/*transition:all 1s ease;*/
+		}
+
+		.box:hover{
+			width:200px;
+			height:400px;
+			border-radius:50%;
+		}
+	</style>
+</head>
+<body>
+	<div class="box"></div>
+</body>
+</html>

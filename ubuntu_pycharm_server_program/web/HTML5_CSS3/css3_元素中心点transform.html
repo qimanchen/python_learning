@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>元素中心点</title>
+	<style>
+		div{
+			width:200px;
+			height:200px;
+			background-color:cyan;
+			float:left;
+			margin:30px;
+			transition:all 1s ease;
+		}
+
+		div:nth-child(1){
+			transform-origin:left center;
+		}
+
+		div:nth-child(2){
+			transform-origin:left top;
+		}
+
+		div:nth-child(3){
+			transform-origin:right top;
+		}
+
+		div:hover{
+			transform:rotate(90deg);
+		}
+	</style>
+</head>
+<body>
+	<div></div>
+	<div></div>
+	<div></div>
+</body>
+</html>

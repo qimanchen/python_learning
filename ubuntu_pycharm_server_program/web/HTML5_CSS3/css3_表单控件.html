@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>css3 表单控件</title>
+
+	<style type="text/css">
+		input:disabled{
+			background-color:red;
+		}
+
+		input:enabled{
+			background-color:green;
+		}
+
+		/*input:checked + label{
+			color:red;
+		}*/
+
+		.box{
+			width:100px;
+			height:100px;
+			background-color:gold;
+			display:none;
+		}
+
+		input:checked + div{
+			display:block;
+		}
+	</style>
+</head>
+<body>
+	<input type="text" name="" disabled>
+	<input type="text" name="">
+
+	<!-- <input type="checkbox" name=""><label for="">选中的状态</label> -->
+	<input type="checkbox" name=""><div class="box">这是一个div元素</div>
+</body>
+</html>

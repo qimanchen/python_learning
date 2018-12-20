@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>css 选择器</title>
+
+	<style type="text/css">
+		/*标签选择器*/
+		div{
+			color:red;
+		}
+		/*id选择器*/
+		#box{
+			color:green;
+		}
+
+
+		/*类选择器*/
+		.red{
+			color:red;
+		}
+		
+		.bold{
+			font-weight:bold;
+		}
+
+		.yahei{
+			font-family:'Microsoft Yahei';
+		}
+
+		.duanluo{
+			font-size:20px;
+			text-indent:40px;
+		}
+		.list{
+			list-style:none;
+		}
+
+		/*层级选择器*/
+		.duanluo em{
+			font-style:normal;
+			color:green;
+		}
+
+		.list li{
+			height:30px;
+		}
+
+		.list a{
+			text-decoration:none;
+			font-family:'Microsoft Yahei';
+		}
+
+
+	</style>
+</head>
+<body>
+	<!-- 一个元素可以有多个选择器 (red bold yahei) -->
+	<div class="red bold yahei">这是第一个div</div>
+
+	<!-- 一个选择器可以用于多个元素 (red) -->
+	<div id="box" class="red">这是第二个div</div>
+
+
+	<div class="red">这是第三个div</div>
+
+	<p class="duanluo yahei">
+		HTML是 <em>HyperText Mark-up Language</em> 的首字母简写，意思是超文本标记语言，超文本指的是超链接，标记指的是标签，是一种用来制作网页的语言，这种语言由一个个的标签组成，用这种语言制作的文件保存的是一个文本文件，文件的扩展名为html或者htm，一个html文件就是一个网页，html文件用编辑器打开显示的是文本，可以用文本的方式编辑它，如果用浏览器打开，浏览器会按照标签描述内容将文件渲染成网页，显示的网页可以从一个网页链接跳转到另外一个网页。
+	</p>
+
+	<p>
+		第一行是<em>文档声明</em>，第二行“<html>”标签和最后一行“</html>”定义html文档的整体，“<html>”标签中的‘lang=“en”’定义网页的语言为英文，定义成中文是'lang="zh-CN"',不定义也没什么影响，它一般作为分析统计用。 “<head>”标签和“<body>”标签是它的第一层子元素，“<head>”标签里面负责对网页进行一些设置以及定义标题，设置包括定义网页的编码格式，外链css样式文件和javascript文件等，设置的内容不会显示在网页上，标题的内容会显示在标题栏，“<body>”内编写网页上显示的内容。
+	</p>
+
+	<!-- 可以通过层级选择器来实现不同样式 -->
+	<ul class="list">
+		<li><a href="#">新闻标题</a></li>
+		<li><a href="#">新闻标题</a></li>
+		<li><a href="#">新闻标题</a></li>
+		<li><a href="#">新闻标题</a></li>
+		<li><a href="#">新闻标题</a></li>
+		<li><a href="#">新闻标题</a></li>
+	</ul>
+	
+</body>
+</html>

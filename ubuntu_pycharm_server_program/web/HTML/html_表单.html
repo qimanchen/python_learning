@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>表单</title>
+</head>
+<body>
+	<h3>用户注册</h3>
+	<form action="http://www.itcast.cn" method="get" target="_blank">
+
+		<!-- 
+			name value
+			?username=tom
+			&pwd=123
+			&gender=0
+			&like=game
+			&like=sleep
+			&info=hallo
+			&site=2
+		-->
+		<div>
+			<label>用户名：</label>
+			<input type="text" name="username" value="tom">
+		</div>
+		<br />
+		<br />
+
+		<div>
+			<label>密码：</label>
+			<input type="password" name="pwd">
+		</div>
+		<br />
+		<br />
+
+		<div>
+			<label>性别：</label>
+			<input type="radio" name="gender" id="male" value="0"> <label for="male">男</label>
+			<input type="radio" name="gender" id="female" value="1"> <label for="female">女</label>
+		</div>
+		<br />
+
+		<div>
+			<label>爱好：</label>
+			<input type="checkbox" name="like" id="game" value="game"> <label for="game">游戏</label>
+			<input type="checkbox" name="like" id="shopping" value="shopping"> <label for="shopping">逛街</label>
+			<input type="checkbox" name="like" id="sleep" value="sleep"> <label for="sleep">睡觉</label>
+		</div>
+		<br />
+
+		<div>
+			<label for="">照片：</label>
+			<input type="file" name="" />
+		</div>
+		<br />
+		<div>
+			<label for="">个人描述：</label>
+			<textarea name="info"></textarea>
+		</div>
+
+		<br />
+		<div>
+			<label>籍贯：</label>
+			<select name="site">
+				<option value="0">北京</option>
+				<option value="1">上海</option>
+				<option value="2">广州</option>
+				<option value="3">深圳</option>
+			</select>
+		</div>
+		<br />
+
+		<input type="submit" name="" value="提交" />
+		<input type="reset" name="" value="重置" />
+		<input type="button" name=""  value="按钮" />
+		<input type="hidden" name="hid" value="1234" />
+		<input type="image" src="bike_loading.gif" alt="提交" />
+
+
+
+
+
+	</form>
+</body>
+</html>

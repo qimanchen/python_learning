@@ -1,0 +1,12 @@
+<get-config>
+        <source>
+                <running/>
+        </source>
+        <filter type="subtree">
+                <ports xmlns="http://www.polatis.com/yang/optical-switch">
+                        <port>
+                                <port-state>PC_DISABLED</port-state>
+                        </port>
+                </ports>
+        </filter>
+</get-config>

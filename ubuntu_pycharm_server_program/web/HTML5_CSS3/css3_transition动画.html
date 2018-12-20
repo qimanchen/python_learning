@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>transition动画</title>
+	<style>
+		.box{
+			width:100px;
+			height:100px;
+			background-color:gold;
+			/*transition:width 500ms ease 500ms,height 500ms ease 1s,background-color 500ms ease 1s,border-radius 500ms ease;*/
+			transition:all 500ms ease;
+		}
+
+		.box:hover{
+			width:500px;
+			height:300px;
+			background-color:red;
+			border-radius:50px;
+		}
+	</style>
+</head>
+<body>
+	<div class="box">
+		
+	</div>
+</body>
+</html>

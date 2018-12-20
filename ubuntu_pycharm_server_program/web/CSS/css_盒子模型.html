@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>盒子模型</title>
+	<style type="text/css"> 
+		
+		.box{
+			width:200px;
+			height:100px;
+			background-color:gold;
+
+			/* 盒子的结构布局
+			|----------------------------------------------|
+			|     margin  -- 盒子与外部其他框的距离          |
+			|----------------------------------------------|   
+			|     border  -- 盒子边框的厚度（宽）            |
+			|----------------------------------------------|
+			|     padding -- 盒子内容区与边框的距离          |
+			|----------------------------------------------|
+			|     content -- 盒子内容区的宽高（width height）|
+			|----------------------------------------------|
+			*/
+
+			/*边框设置
+			border-top-width:10px;
+			border-top-color:#000;
+			实线：solid 虚线：dashed 点线：dotted
+			border-top-style:solid;*/
+			/*四个边不同
+			border-top:10px solid #000;
+			border-left:10px dashed #000;
+			border-right:10px dotted #000;
+			border-bottom:10px solid #000;*/
+
+			border:10px solid #000;
+
+			/*文字内容与边框的距离
+			padding-top:20px;
+			padding-left:40px;
+			padding-right:100px;
+			padding-bottom:200px;*/
+
+			/*上 右 下 左*/
+			padding:20px 100px 200px 40px;
+
+			/*上 左右 下*/
+			padding:20px 100px 200px;
+
+			/*上下 左右 */
+			padding:20px 100px;
+
+			/*上下左右*/
+			padding:100px;
+
+			/*盒子的外边距
+			margin-top:50px;
+			margin-left:100px;
+			margin-right:200px;
+			margin-bottom:100px;*/
+
+			/*上 右 下 左
+			margin:20px 100px 200px 40px;
+
+			上 左右 下
+			margin:20px 100px 200px;
+
+			上下 左右
+			margin:20px 100px;
+
+			上下左右
+			margin:100px;
+			*/
+
+			/*上下  左右水平居中*/
+			margin:100px auto;
+
+		}
+	</style>
+</head>
+<body>
+	<!-- div是一个标签，也是一个元素，也是一个盒子 -->
+	<div class="box">元素在页面中显示成一个方块，类似一个盒子，CSS盒子模型就是使用现实中盒子来做比喻，帮助我们设置元素对应的样式。</div>
+
+	<div class="box">元素在页面中显示成一个方块，类似一个盒子，CSS盒子模型就是使用现实中盒子来做比喻，帮助我们设置元素对应的样式。</div>
+</body>
+</html>

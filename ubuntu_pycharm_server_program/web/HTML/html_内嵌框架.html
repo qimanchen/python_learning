@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>内嵌框架</title>
+</head>
+<body>
+	<a href="http://www.baidu.com" target="myframe" title="http://www.baidu.com">百度网</a>
+	<a href="http://www.itcast.cn" target="myframe">传智网</a>
+	<!-- 内嵌式可以通过连接别的不同网址实现 -->
+	<!-- a标签中的target对应iframe标签中的name -->
+	<a href="http://www.qq.com" target="myframe">腾讯网</a>
+
+	<br />
+
+	<iframe src="http://www.baidu.com" frameborder="0" width="600" height="300" scrolling="yes" name="myframe">
+		
+	</iframe>
+	<iframe src="test.html" frameborder="0" width="600" height="300" scrolling="no"></iframe>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Retina 屏幕适配</title>
+	<style>
+		.retina_pic{
+			width:300px;
+			height:215px;
+		}
+	</style>
+</head>
+<body>
+	<img src="images/pic1x.jpg" alt="1倍图" title="1倍图">
+
+	<!-- 使用css强制压缩，使得其兼容苹果的Retina屏 -->
+	<!-- 使得实际大小比使用大小大一倍（整体的压缩） -->
+	<img src="images/pic2x.jpg" alt="2倍图" title="2倍图" class="retina_pic">
+</body>
+</html>

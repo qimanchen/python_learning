@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>导航条02</title>
+	<style type="text/css">
+		.menu{
+			background-color:#55a8ea;
+			list-style:none;
+			padding:0;
+			width:960px;
+			height:40px;
+			margin:50px auto 0;
+			position:relative;
+		}
+
+		.menu li{
+			float:left;
+			width:100px;
+			height:40px;
+			text-align:center;
+			line-height:40px;
+
+		}
+
+		.menu a{
+			text-decoration:none;
+			/*font-size:14px;
+			font-family:'Microsoft Yahei';
+			color:#fff;*/
+			font:14px/40px 'Microsoft Yahei';
+			color:#fff;
+		}
+
+		.menu .active{
+			background:#00619f;
+		}
+
+		.menu li:hover{
+			background-color:#00619f;
+		}
+
+		.menu .new{
+			width:33px;
+			height:20px;
+			background:url(images/new.png);
+			position:absolute;
+			left:432px;
+			top:-10px;
+		}
+
+		.menu .new{
+			background:url(images/new.png) no-repeat;
+		}
+	</style>
+</head>
+<body>
+	<ul class="menu">
+		<li class="active"><a href="">首页</a></li>
+		<li><a href="">网站建设</a></li>
+		<li><a href="">程序开发</a></li>
+		<li><a href="">网络营销</a></li>
+		<li><a href="">企业VI</a></li>
+		<li><a href="">案例演示</a></li>
+		<li><a href="">联系我们</a></li>
+		<li class="new"></li>
+	</ul>
+</body>
+</html>

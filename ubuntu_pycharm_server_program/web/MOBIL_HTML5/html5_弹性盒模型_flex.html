@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>弹性盒模型</title>
+	<style>
+		.clearfix:after{
+			content:'';
+			display:table;
+		}
+		.clearfix:after{clear:both;}
+
+		ul{
+			margin:0;
+			padding:0;
+			list-style:none;
+
+			width:500px;
+			border:5px solid #000;
+			background-color:gold;
+			margin:50px auto 0;
+
+			/*弹性盒模型声明*/
+			display:flex;
+
+			/*
+			row 默认子元素水平靠左排列
+			row-reverse 子元素水平靠右排列
+			column 竖排
+			column-reverse 倒序竖排
+			*/
+			flex-direction:row;
+
+			/*
+			nowrap 默认值不换行，子元素超过父级宽度时
+			wrap 换行
+			wrap-reverse 倒序换行
+			*/
+			flex-wrap:wrap;
+		}
+
+		ul li{
+			width:200px;
+			height:50px;
+			margin:10px;
+			line-height:50px;
+			text-align:center;
+			color:#fff;
+			background-color:green;
+			float:left;
+		}
+	</style>
+</head>
+<body>
+	<ul>
+		<li>1</li>
+		<li>2</li>
+		<li>3</li>
+		<li>4</li>
+		<li>5</li>
+	</ul>
+</body>
+</html>

@@ -1,0 +1,26 @@
+#!/bin/sh
+. /lib/lsb/init-functions
+CONFIG="/etc/mongod.conf"
+PROGRAM="/usr/bin/mongod"
+MONGOPID=`ps -ef | grep 'mongod' | grep -v grep | awk '{print $2}'`
+
+test -x $PROGRAM || exit 0
+
+case "$1" in
+  start)
+    ulimit -n 3000
+    echo "Starting MongoDB Server"
+ $PROGRAM -f $CONFIG &
+ ;;
+  stop)
+    ulimit -n 3000
+    echo "Stopping MongoDB Server"
+ if [ ! -z "$MONGOPID" ]; then
+   kill -15 $MONGOPID
+ fi
+ ;;
+  *)
+  log_success_msg "Usage:/etc/init.d/mongod {start|stop}"
+exit 1
+esac
+exit 0

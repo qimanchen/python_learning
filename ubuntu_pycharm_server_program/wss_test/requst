@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<rpc xmlns="urn:ietf:params:xml:ns:netconf:base:1.0" message-id="1024">
+    <get>
+        <filter type="subtree">
+            <cli xmls="http://www.huawei.com/netconf/vrp" content-version="1.0" format-version="1.0">
+                <headerInfo>
+                    <loginInfo>
+                        <loginInfoType></loginInfoType>
+                        <loginText></loginText>
+                    </loginInfo>
+                </headerInfo>
+
+            </cli>
+
+        </filter>
+    </get>
+</rpc>
